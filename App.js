@@ -10,10 +10,9 @@ export default function App(){
             <Info />
             <main>
                 <About />
-                <Interests />
-                <Footer />
+                <Interests /> 
             </main>
-            
+            <Footer />
         </div>
     )
 }

@@ -426,9 +426,9 @@ function App() {
             'main',
             null,
             _react2.default.createElement(_About2.default, null),
-            _react2.default.createElement(_Interests2.default, null),
-            _react2.default.createElement(_Footer2.default, null)
-        )
+            _react2.default.createElement(_Interests2.default, null)
+        ),
+        _react2.default.createElement(_Footer2.default, null)
     );
 }
 
