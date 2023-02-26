@@ -5,7 +5,6 @@
 .container{
     margin-top: 10px;
     padding-top: 10px;
-    height: 868px;
     width: 317px;
     border-radius: 10px 10px 0px 0px;
     background-color: black;
@@ -18,12 +17,15 @@
 
 .info {
     background: #1A1B21;
-}
+}  
 
 .image {
+    background-size: cover;
+    height: 250px;
     width: 100%;
     border-radius: 10px 10px 0px 0px;
-    background-image: url("self-image.png");
+    background-image: url(self-image.png);
+    background-position: center;
 }
 
 .name {
